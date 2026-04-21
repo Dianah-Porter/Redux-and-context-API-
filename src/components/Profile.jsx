@@ -1,4 +1,4 @@
-import {userSelector, useSelector} from "react-redux"
+import {useSelector} from "react-redux"
 //hook to grab values of our state 
 function Profile(){
     //to access user state 
